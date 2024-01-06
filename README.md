@@ -1,7 +1,7 @@
-# hourglass-problem
+# Hourglass Problem
 Solution for hourglass problem in 2D Array
 
-# the problem
+## The problem
 Given a 2D matrix, the task is to find the maximum sum of an hourglass.
 ```
 An hour glass is made of 7 cells
@@ -36,4 +36,5 @@ maximum sum
   4
 0 2 4
 ```
-
+## Requirement
+JDK 17 LTS
