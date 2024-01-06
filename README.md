@@ -10,4 +10,30 @@ in following form.
       D
     E F G
 ```
+Examples
+```
+Input : 1 1 1 0 0 
+        0 1 0 0 0 
+        1 1 1 0 0 
+        0 0 0 0 0 
+        0 0 0 0 0 
+Output : 7
+Below is the hour glass with
+maximum sum:
+1 1 1 
+  1
+1 1 1
+                                                      
+Input : 0 3 0 0 0
+        0 1 0 0 0
+        1 1 1 0 0
+        0 0 2 4 4
+        0 0 0 2 4
+Output : 11
+Below is the hour glass with
+maximum sum
+1 0 0
+  4
+0 2 4
+```
 
